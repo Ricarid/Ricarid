@@ -3,7 +3,9 @@
 
 # Olá, eu sou o José Ricardo Schmitz Junior
 
-Estudante de Engenharia de Software na Univille
+Tenho 19 anos
+
+Estudante de Engenharia de Software na Univille inciando o Quarto semestre 
 
 ## Tenho experiencia com linguagens e ferramentas, como:
 - **Linguagens:** Java, JavaScript, C++, HTML5, Python, R
@@ -66,3 +68,4 @@ Estudante de Engenharia de Software na Univille
 
 
 - **E-mail:** josericardo.jr2007@gmail.com
+- **Endereço:** Rua Paulo Schneider, 737
