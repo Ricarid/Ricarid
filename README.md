@@ -68,4 +68,4 @@ Estudante de Engenharia de Software na Univille inciando o Quarto semestre
 
 ## Como me encontrar
 - **E-mail:** josericardo.jr2007@gmail.com
-- **Endereço:** Rua Paulo Schneider, 737, Bairro Vila Nova 
+- **Endereço:** Joinville, Bairro Vila Nova 
