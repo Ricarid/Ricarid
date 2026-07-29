@@ -19,7 +19,7 @@ Estudante de Engenharia de Software na Univille inciando o Quarto semestre
 - **Tecnologia:** Java
 
 
-### 2. renciamentoGe(https://github.com/Ricarid/Gerenciamento.git)
+### 2. Gerenciamento(https://github.com/Ricarid/Gerenciamento.git)
 - **O que é:** Um projeto que tem a função de simular o Gerenciamento de um estoque de produtos
 - **Tecnologia:** Java
 
@@ -68,4 +68,4 @@ Estudante de Engenharia de Software na Univille inciando o Quarto semestre
 
 
 - **E-mail:** josericardo.jr2007@gmail.com
-- **Endereço:** Rua Paulo Schneider, 737
+- **Endereço:** Rua Paulo Schneider, 737, Bairro Vila Nova 
