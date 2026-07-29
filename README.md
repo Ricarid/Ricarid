@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Olá, eu sou o José Ricardo Schmitz Junior
 
 Estudante de Engenharia de Software na Univille
