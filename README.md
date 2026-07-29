@@ -19,16 +19,16 @@ Estudante de Engenharia de Software na Univille inciando o Quarto semestre
 - **Tecnologia:** Java
 
 
-### 2. Gerenciamento(https://github.com/Ricarid/Gerenciamento.git)
+### 2. Gerenciamento (https://github.com/Ricarid/Gerenciamento.git)
 - **O que é:** Um projeto que tem a função de simular o Gerenciamento de um estoque de produtos
 - **Tecnologia:** Java
 
-### 3. API_RESTful(https://github.com/Ricarid/API_RESTful.git)
+### 3. API_RESTful (https://github.com/Ricarid/API_RESTful.git)
 - **O que é:** Um projeto de construção de uma API RESTful seguindo o Nível 3 do Modelo de Maturidade de Richardson
 
 - **Tecnologia:** JavaScript, HTTP, JSON, Node.js, Express.js
 
-### 4. ACDCnew(https://github.com/Ricarid/ACDCnew.git)
+### 4. ACDCnew (https://github.com/Ricarid/ACDCnew.git)
 - **O que é:** Um projeto de construção de um site que visa simular uma pagina de noticias da banda ACDC
 
 - **Tecnologia:** HTML, CSS, JavaScript
