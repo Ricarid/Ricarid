@@ -66,6 +66,6 @@ Estudante de Engenharia de Software na Univille inciando o Quarto semestre
 - **Angular: cursos de testes automatizados para garantir a qualidade da sua aplicação** — Alura 
 
 
-
+## Como me encontrar
 - **E-mail:** josericardo.jr2007@gmail.com
 - **Endereço:** Rua Paulo Schneider, 737, Bairro Vila Nova 
